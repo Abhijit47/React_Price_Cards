@@ -35,7 +35,7 @@ section.pricing {
 }
 
 .pricing .text-muted {
-  /* opacity: 0.7; */
+  opacity: 0.7;
 }
 
 .pricing .btn {

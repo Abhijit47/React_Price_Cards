@@ -51,7 +51,6 @@ const CardParent = () => {
         <div className="container">
           <div className="row">
             {cardInfo.map((info, i) => {
-              console.log(info);
               return (
                 <Card info={info} key={i} />
               );
